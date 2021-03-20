@@ -15,12 +15,6 @@ from logging import Formatter, FileHandler
 from flask_wtf import Form
 from forms import *
 
-""" 
-export FLASK_APP=myapp 
-export FLASK_ENV=development
-python app.py 
-"""
-
 #----------------------------------------------------------------------------#
 # App Config.
 #----------------------------------------------------------------------------#
